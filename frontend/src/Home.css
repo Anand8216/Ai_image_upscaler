@@ -1,0 +1,25 @@
+
+.main-container {
+    text-align: center;
+    background: rgba(0, 255, 255, 0.2); 
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+    padding: 10px 10px; 
+    
+   
+    
+    z-index:0;
+    position:absolute;
+    top:50%;
+    left:40%;
+  }
+  
+  .main-container input {
+    background: none;
+    outline: none;
+
+  }
+  .main-container button{
+    background:blue;
+  }
+  
